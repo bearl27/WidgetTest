@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  WidgetTest
+//  WidgetExample
 //
 //  Created by kai on 2024/04/09.
 //

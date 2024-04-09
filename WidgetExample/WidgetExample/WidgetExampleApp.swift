@@ -1,6 +1,6 @@
 //
-//  WidgetTestApp.swift
-//  WidgetTest
+//  WidgetExampleApp.swift
+//  WidgetExample
 //
 //  Created by kai on 2024/04/09.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct WidgetTestApp: App {
+struct WidgetExampleApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
